@@ -1,0 +1,51 @@
+*  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+
+
+}
+
+body {
+    background-image: url("baguette-bread-1581535577.jpg");
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(231, 231, 231);
+
+
+
+}
+
+img {
+    max-width: 600px;
+    float: left;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-right: 15px;
+    margin-bottom: 20px;
+}
+
+.wrapper {
+    margin: 150px auto;
+    width: 70%;           
+
+}
+
+.textbox {
+    color: black;
+
+
+}
+
+.textbox h2{
+    font-size: 42px;
+
+}
+
+.textbox p {
+    font-size: 16px;
+
+}

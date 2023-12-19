@@ -1,0 +1,71 @@
+*  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+
+
+}
+
+body {
+    
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(255, 252, 252);
+
+
+
+}
+
+img {
+    max-width: 320px;
+    float: left;
+    
+    margin-right: 15px;
+    margin-bottom: 30px;
+    
+}
+
+.wrapper {
+    margin: 150px auto;
+    width: 70%;           
+
+}
+
+.textbox {
+    color: black;
+
+
+}
+
+.textbox h2{
+    font-size: 42px;
+
+}
+
+.textbox p {
+    font-size: 16px;
+
+}
+
+body {
+    background-image: url("bread\ wallpaper.jpg");
+    
+   }
+
+.pagination{
+    position: relative;
+    bottom: 0; 
+    width: 100%;
+    margin-left: px;
+  }
+
+.auroramap {
+        margin: 150px auto;
+        width: 70%;
+        
+    }
+
+
