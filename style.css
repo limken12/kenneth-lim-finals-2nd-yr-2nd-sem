@@ -85,3 +85,37 @@ body {
     margin-left: 350px;
 
 }
+
+.orderform {
+    margin: 20px auto;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+input[type=text] {
+    border: 2px solid red;
+    border-radius: 4px;
+  }
+
+  input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+  .pagetwo {
+    margin: 150px auto;
+    width: 70%;
+    margin-bottom: 200px;     
+
+
+  }
+
+  .contact {
+    margin: 20px auto;
+    max-width: 1000px;
+    
+}
