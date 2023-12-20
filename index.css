@@ -18,6 +18,11 @@ body {
 
 
 }
+body {
+    background-image: url("breadwallp.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+   }
 
 img {
     max-width: 600px;
