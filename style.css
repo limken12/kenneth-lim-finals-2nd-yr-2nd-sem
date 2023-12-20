@@ -25,7 +25,8 @@ img {
     
     margin-right: 15px;
     margin-bottom: 30px;
-    
+    border-radius: 8px;
+
 }
 
 .wrapper {
@@ -59,13 +60,28 @@ body {
     position: relative;
     bottom: 0; 
     width: 100%;
-    margin-left: px;
+    margin-left: 350px;
+    
   }
 
 .auroramap {
-        margin: 150px auto;
-        width: 70%;
+        margin: 20px auto;
+        max-width: 1000px;
         
     }
 
+.makebread {
+    margin: 20px auto;
+    max-width: 1000px;
 
+
+
+}
+
+.youtube {
+    margin: 20px auto;
+    max-width: 600px;
+    bottom: 0;
+    margin-left: 350px;
+
+}
